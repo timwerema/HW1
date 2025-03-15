@@ -42,3 +42,7 @@ Car (driven by the player)
 Projectile (hazard)
 Power-Up (shield or clear bullets)
 Game Session (tracks score and survival time)
+
+![DomainModel](https://github.com/user-attachments/assets/7d83d528-a6cf-4a97-b274-43a9b31fae59)
+
+![use case diagram](https://github.com/user-attachments/assets/2956abbc-df0f-45db-ba1f-fba8a64e67b7)
